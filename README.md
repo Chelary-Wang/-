@@ -1,2 +1,1 @@
-# -
-java 和 python学习笔记
+#java与python学习笔记
